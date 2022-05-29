@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Average</string>
+    <string name="Intial_Qhint">Initial Quantity</string>
+    <string name="Initial_Aver">Initial Average</string>
+    <string name="New_Qhint">New Quantity</string>
+    <string name="present_Price">Present Price</string>
+    <string name="buttton_Q">Average</string>
+    <string name="Ans">Answer</string>
+</resources>
